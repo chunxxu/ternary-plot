@@ -73,6 +73,6 @@ http://bl.ocks.org/tomgp/7674234
 
 
 ## References
-[1]Karl Tuyls, "An evolutionary game-theoretic analysis of poker strategies", Entertainment Computing January 2009 doi:10.1016/j.entcom.2009.09.002, p. 9
-[2]Vaughan, Will (September 5, 2010). "Ternary plots". Retrieved September 7, 2010.
+[1]Karl Tuyls, "An evolutionary game-theoretic analysis of poker strategies", Entertainment Computing January 2009 doi:10.1016/j.entcom.2009.09.002, p. 9   
+[2]Vaughan, Will (September 5, 2010). "Ternary plots". Retrieved September 7, 2010.  
 [3]https://en.wikipedia.org/wiki/Ternary_plot
